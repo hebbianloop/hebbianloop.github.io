@@ -1,7 +1,0 @@
-title: "Shady El Damaty"
-name: "Shady El Damaty"
-description: "Personal Site"
-markdown: kramdown
-url: "https://seldamat.github.io/"
-permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-slate
