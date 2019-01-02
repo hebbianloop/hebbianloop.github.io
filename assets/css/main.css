@@ -954,6 +954,7 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 50px;
+		-ms-border-radius: 50px;
 		border: 0;
 		box-shadow: inset 0 0 0 1px #ffffff;
 		color: #ffffff !important;
@@ -962,6 +963,7 @@
 		font-size: 0.8rem;
 		font-weight: 300;
 		height: 80%;
+		-ms-height: 50px;
 		letter-spacing: 0.12rem;
 		line-height: 2.75rem;
 		outline: 0;
