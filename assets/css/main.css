@@ -964,7 +964,9 @@
 		font-weight: 300;
 		-ms-height: 50px;		
 		height: 80%;
+		-ms-letter-spacing: 0.12rem;
 		letter-spacing: 0.12rem;
+		-ms-line-height: 2.75rem;
 		line-height: 2.75rem;
 		outline: 0;
 		padding: 0 1.25rem 0 1.35rem;
