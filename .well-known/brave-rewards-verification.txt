@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: seldamat.github.io
+Token: dadc8fa8d6f077018b3e883b1faf8ef3e101ff37c87682aa42810491d643cb03
